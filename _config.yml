@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3162076366878773
+  lightness: 0.32957099901359344
+  rhythmicContrast: 0.7947057092740648
+  saturation: 0.33564125407691503
+cta: {}
+layout_spectrum: 0.33290796164333536
+name: whitehat
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.6413917328260788
